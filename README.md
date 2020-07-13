@@ -1,13 +1,12 @@
-<!-- <head>
+```html
+
+<head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/evil-icons@1.9.0/assets/evil-icons.min.css">
     <link href="https://fonts.googleapis.com/css?family=Alata&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/evil-icons@1.9.0/assets/evil-icons.min.js"></script>
 </head>
 <style>
 
-$bgColor: #1a1b1f;
-$topShadow: #23242a;
-$bottomShadow: #111214;
 
 html * {
   font-family: "Alata", cursive;
@@ -33,7 +32,7 @@ body {
     font-size: 5rem;
     text-align: center;
     text-align: center;
-    color: $bgColor;
+    color: #1a1b1f;
     user-select: none;
     text-shadow: 0px 4px 4px #111214, 0px -3px 2px #23242a;
     margin: 0;
@@ -42,7 +41,7 @@ body {
   .textButton {
     font-size: 2.5rem;
     text-align: center;
-    color: $bgColor;
+    color: #1a1b1f;
     text-shadow: 0px 3px 3px #111214, 0px -3px 2px #23242a;
     user-select: none;
     margin: 0;
@@ -102,4 +101,4 @@ body {
         </div>
 
     </div>
-</div> -->
+</div>
