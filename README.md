@@ -1,4 +1,4 @@
-<head>
+<!-- <head>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/evil-icons@1.9.0/assets/evil-icons.min.css">
     <link href="https://fonts.googleapis.com/css?family=Alata&display=swap" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/evil-icons@1.9.0/assets/evil-icons.min.js"></script>
@@ -102,4 +102,4 @@ body {
         </div>
 
     </div>
-</div>
+</div> -->
