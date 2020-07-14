@@ -1,1 +1,1 @@
-![](me-card.gif)
+![](https://github.com/petar-spasov/petar-spasov/blob/master/img/me-card-light.gif)
